@@ -12,21 +12,21 @@ redirect_from:
 
 🎓 Hi, I'm Yongzhou Yao(姚永舟). I am currently an undergraduate student at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), and I will begin my M.S. at the [Institute of Computing Technology, Chinese Academy of Sciences](https://www.ict.ac.cn/) in the STAR Group, supervised by [Prof. Sun](https://ofey.me).
 
-🔬 My current research interest is the security of agent systems.
+🔬 My current research interest is the security of agent systems and slef-evolving agents.
 
 
 ## 🏫 Educations
 
 - 2022.09 - Present, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
-- Expected 2026.09, M.S. student in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences, STAR Group, supervised by Prof. Sun.
+- Expected 2026.09, M.S. student in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences, STAR Group, supervised by [Prof. Sun](https://ofey.me)
 
 ## 💼 Internship
 
-- Internship at Baidu.
+- 2026.4 - Present, Internship at Baidu.
 
 ## 📘 Publications
 
-TBD
+coming soon！
 
 ## 🏆 Awards
 
@@ -44,4 +44,4 @@ TBD
 
 - Officer of the Propaganda Center, Undergraduate Student Union, University of Chinese Academy of Sciences
 
-- League branch secretary, Class of 2208, University of Chinese Academy of Sciences
+<!-- - League branch secretary, Class of 2208, University of Chinese Academy of Sciences -->
