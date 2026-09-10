@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Expected 2026.09: M.S. student in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences, STAR Group
+* 2026.09 - Present: M.S. student in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences, STAR Group
   * Supervisor: Prof. Sun Fei
-* 2022.09 - Present: B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences
+* 2022.09 - 2026.06: B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences
 
 Work experience
 ======
